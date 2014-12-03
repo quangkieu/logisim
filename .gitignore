@@ -1,6 +1,8 @@
 target
 reports
-build
+build/
+launch4j/
+bin/
 .gradle
 .project
 .classpath
@@ -14,3 +16,9 @@ bin
 *.orig
 nbproject/**
 build.xml
+# Temp files
+*~
+#*#
+
+# OS specific
+Thumbs.db
